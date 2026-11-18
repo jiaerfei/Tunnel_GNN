@@ -16,16 +16,16 @@ Neo4j (https://neo4j.com/docs/operations-manual/current/installation/windows/)
 
 
 ### 3. 文件说明
-#### main_box.py
+#### tunnel_data_process.py
 病害图像的自动识别、量化信息提取与存储
 
-#### main_tunnel_kg.py
+#### tunnel_neo4j_kg.py
 读取病害识别结果文件与评估知识，进而构建知识图谱
 
-#### main_tunnel_gnn.py
+#### tunnel_gnn_health.py
 GNN输入数据处理、网络搭建、训练与预测
 
-#### 其他为数据、模型最优权重等文件
+#### 其他为数据、模型权重等文件
 
 
 ### 4. 数据集下载
