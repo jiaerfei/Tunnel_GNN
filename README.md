@@ -8,8 +8,7 @@
 ### 1. 环境配置(必需的)
 - ultralytics (https://github.com/ultralytics/ultralytics)
 - PyG (https://pytorch-geometric.readthedocs.io/en/latest/install/installation.html)
-- py2neo (pip install py2neo)
-> py2neo不再维护更新，Neo4j目前有官方推荐的管理库：pip install neo4j
+- py2neo不再维护更新，Neo4j目前有官方推荐的管理库：pip install neo4j
 
 
 ### 2. 软件配置(必需的)
